@@ -1,0 +1,21 @@
+body{
+    background-color:#141414;
+    color: #be1e2d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+    background-color: #f15a29;
+    color: #fff;
+}
+
+table.table td {
+background-color: #141414;
+}
+
+table.table td:hover {
+background-color: #f15a29;
+}
+
+
+
